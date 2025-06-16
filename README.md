@@ -125,5 +125,5 @@ Open `Nigeria_gas_flare_prediction.ipynb` and run all cells.
 
 ## 🙏 Acknowledgments
 
-- Thanks to [NNPC](https://www.nnpcgroup.com) and relevant data providers.
+- Thanks to [NNPC](https://www.nnpcgroup.com) and all relevant data providers.
 - Inspired by Nigeria’s zero flaring commitment.
