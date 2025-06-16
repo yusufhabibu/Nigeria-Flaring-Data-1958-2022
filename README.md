@@ -27,7 +27,7 @@ The primary objective is to analyze historical gas flaring data and build a pred
 
 ## 📊 Dataset
 
-- **Source**: [Nigeria Gas Flare Data](https://www.nnpcgroup.com)
+- **Source**: [Nigeria Gas Flare Data](https://docs.google.com/spreadsheets/d/1cIqd6z6gODWbuwidQwFxjDCGsr3_fWUK2ZWblHJsl2o/edit?usp=drive_link)
 - **Description**: The dataset contains:
   - Yearly data entries (used as index),
   - % Gas Flared (target variable).
