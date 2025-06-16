@@ -1,8 +1,8 @@
 
-Dataset Title: Historical Gas Flaring and Oil Production Data – Nigeria (1958–2022)
+Dataset Title: Historical Gas Flaring Volume Data – Nigeria (1958–2022)
 
 Description:
-This dataset provides historical data on Nigeria's oil and gas industry, with a focus on gas flaring volumes. The dataset spans from 1958 to recent years and is useful for analyzing trends in gas production, flaring practices, and associated economic indicators. It is particularly relevant for policy modeling, environmental impact assessments, and energy transition forecasting.
+This dataset provides historical data on Nigeria's oil and gas industry, with a focus on gas flaring volumes. The dataset spans from 1958 to 2022 and is useful for analyzing trends in gas production, flaring practices, and associated economic indicators. It is particularly relevant for policy modeling, environmental impact assessments, and energy transition forecasting.
 
 The dataset contains the following columns:
 
@@ -21,6 +21,12 @@ Sources:
 - U.S. Energy Information Administration (EIA): Historical oil price data
 - World Bank: Gas flaring penalty references and policy data
 - Public datasets from Global Gas Flaring Tracker: https://www.worldbank.org/en/programs/gasflaringreduction
+- Tracy Adole, "A GIS BASED ASSESSMENT OF THE IMPACTS OF GAS FLARING ON VEGETATION COVER IN DELTA STATE, NIGERIA", 2011
+- Statista
+- CEIC Data
+- OPEC data
+
+
 
 Usage:
 This dataset is intended for research, policy analysis, and academic projects focused on gas flaring reduction, carbon emissions tracking, and economic modeling within Nigeria’s energy sector.
