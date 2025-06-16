@@ -1,0 +1,29 @@
+
+Dataset Title: Historical Gas Flaring and Oil Production Data – Nigeria (1958–2022)
+
+Description:
+This dataset provides historical data on Nigeria's oil and gas industry, with a focus on gas flaring volumes. The dataset spans from 1958 to recent years and is useful for analyzing trends in gas production, flaring practices, and associated economic indicators. It is particularly relevant for policy modeling, environmental impact assessments, and energy transition forecasting.
+
+The dataset contains the following columns:
+
+1. Year – The reporting year.
+2. Gas Flared (100 Million cubic meters) – Volume of gas flared in Nigeria.
+3. Gas Produced (100 Million cubic meters) – Total volume of gas produced.
+4. Oil Production (100 Million Barrels) – Total oil production in barrels.
+5. Average Crude Price ($/barrel) – Global average market price for crude oil.
+6. Cost (USD per 100 Billion cubic meters) – Estimated cost of gas handling.
+7. Number of Active Rigs – Total number of active drilling rigs operating in the country.
+8. Gas Flare Penalty ($ per 1000 cubic meters) – Regulatory penalty imposed on gas flaring.
+
+Sources:
+- Nigerian National Petroleum Corporation (NNPC): Annual Statistical Bulletins
+- Nigerian Upstream Petroleum Regulatory Commission (NUPRC)
+- U.S. Energy Information Administration (EIA): Historical oil price data
+- World Bank: Gas flaring penalty references and policy data
+- Public datasets from Global Gas Flaring Tracker: https://www.worldbank.org/en/programs/gasflaringreduction
+
+Usage:
+This dataset is intended for research, policy analysis, and academic projects focused on gas flaring reduction, carbon emissions tracking, and economic modeling within Nigeria’s energy sector.
+
+Author: Habibu Yusuf
+Last Updated: 2025
