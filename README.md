@@ -19,7 +19,7 @@
 This project explores Nigeria's progress toward zero routine gas flaring by the year 2030 using a **Linear Regression** model. Gas flaring is a significant environmental and economic concern, and understanding its reduction trend is critical for energy transition planning.
 
 The primary objective is to analyze historical gas flaring data and build a predictive model that:
-- Estimates the percentage of gas flared based on time (index/year),
+- Estimates the Volume of gas flared based on time (index/year),
 - Evaluates whether Nigeria is on track to meet its flare-out target,
 - Assists policymakers and analysts in forecasting future flaring levels.
 
@@ -125,5 +125,5 @@ Open `Nigeria_gas_flare_prediction.ipynb` and run all cells.
 
 ## 🙏 Acknowledgments
 
-- Thanks to [NNPC](https://www.nnpcgroup.com) or relevant data providers.
+- Thanks to [NNPC](https://www.nnpcgroup.com) and relevant data providers.
 - Inspired by Nigeria’s zero flaring commitment.
