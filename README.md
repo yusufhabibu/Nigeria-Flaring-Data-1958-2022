@@ -53,12 +53,13 @@ The primary objective is to analyze historical gas flaring data and build a pred
 
 ## 📈 Results
 
-- **R² Score**: *Example: 0.89*
-- **MAE**: *Example: 1.23*
-- **RMSE**: *Example: 1.57*
+- **R² Score**: 0.92
+- **Mean Squared Error (MSE)**: 635.59
+- **Root Mean Squared Error (RMSE)**: 25.21
+- **Mean Absolute Error (MAE)**: 18.44
 - **Insights**:
   - The model indicates a steady downward trend in gas flaring.
-  - Projections show Nigeria **may/may not** reach the 2030 zero-flaring goal.
+  - Projections show Nigeria **may not** reach the 2030 zero-flaring goal.
 
 ---
 
@@ -118,7 +119,7 @@ Open `Nigeria_gas_flare_prediction.ipynb` and run all cells.
 
 **Habibu Yusuf**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/habibu-yusuf/)  
-- 💻 [GitHub](https://github.com/habibuyusuf)
+- 💻 [GitHub](https://github.com/yusufhabibu)
 
 ---
 
