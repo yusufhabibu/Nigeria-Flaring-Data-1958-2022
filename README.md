@@ -1,16 +1,6 @@
 
 # **Zero Flaring by 2030: Predicting Nigeria’s Gas Flare Reduction Using Linear Regression**
 
-## 📑 Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Technologies Used](#technologies-used)
-- [How to Run the Project](#how-to-run-the-project)
-- [Future Work](#future-work)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
