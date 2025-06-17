@@ -115,7 +115,7 @@ Open `Nigeria_gas_flare_prediction.ipynb` and run all cells.
 
 **Habibu Yusuf**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/habibu-yusuf/)  
-- 💻 [Website(https://sites.google.com/view/habibu-yusuf/home)]
+- 💻 [Website](https://sites.google.com/view/habibu-yusuf/home)
 
 ---
 
