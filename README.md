@@ -61,6 +61,12 @@ The primary objective is to analyze historical gas flaring data and build a pred
   - The model indicates a steady downward trend in gas flaring.
   - Projections show Nigeria **may not** reach the 2030 zero-flaring goal.
 
+
+---
+## For More Details 
+
+For a comprehensive exploration of the data, methodology, and results, please refer to the full [reports](https://sites.google.com/d/1hakySC_W_tO9KMYGFGO2o-2joZSA-zzf/p/1rbZ3SLPwvTNWy9aFo59NiGomCeJKdHG0/edit) 
+
 ---
 
 ## ⚙️ Technologies Used
