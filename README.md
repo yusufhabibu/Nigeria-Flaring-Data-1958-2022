@@ -63,7 +63,7 @@ The primary objective is to analyze historical gas flaring data and build a pred
 
 
 ---
-## For More Details 
+## 📓For More Details 
 
 For a comprehensive exploration of the data, methodology, and results, please refer to the full [reports](https://sites.google.com/d/1hakySC_W_tO9KMYGFGO2o-2joZSA-zzf/p/1rbZ3SLPwvTNWy9aFo59NiGomCeJKdHG0/edit) 
 
